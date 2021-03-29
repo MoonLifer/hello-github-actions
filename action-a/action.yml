@@ -1,6 +1,6 @@
 name: "Hey Actions"
 description: "Yay!"
-author: "not-me"
+author: "not-mee"
 inputs:
   MY_NAME:
     description: "Greet me"
