@@ -1,0 +1,14 @@
+name: "Hey Actions"
+description: "Yay!"
+author: "not-me"
+inputs:
+  MY_NAME:
+    description: "Greet me"
+    required: true
+    default: "World"
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: "mic"
+  color: "purple"
